@@ -56,7 +56,6 @@ The ML model takes the temperature data and the soil moisture sensor, combined w
 Dependencies / Libraries:
 - "Firebase_ESP_Client"
 - "LoRa by Sandeep Mistry"
-- "Adafruit_MCP9808"
 
 Challenges: 
   1. LoRa supports distances up to 15-20km in rural areas, but sometimes fields are larger than that.
